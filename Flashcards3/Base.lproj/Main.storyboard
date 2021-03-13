@@ -108,6 +108,7 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
+                        <outlet property="answerTextField" destination="lyd-bc-Dfe" id="59N-aJ-2fM"/>
                         <outlet property="questionTextField" destination="BnX-vr-Bc3" id="XYg-b4-n5a"/>
                     </connections>
                 </viewController>
