@@ -13,6 +13,7 @@
 		2729AE5E25EA134F00723B3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2729AE5C25EA134F00723B3C /* Main.storyboard */; };
 		2729AE6025EA135600723B3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2729AE5F25EA135600723B3C /* Assets.xcassets */; };
 		2729AE6325EA135600723B3C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2729AE6125EA135600723B3C /* LaunchScreen.storyboard */; };
+		278D1FDE25FC861B0046087C /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278D1FDD25FC861B0046087C /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2729AE5F25EA135600723B3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2729AE6225EA135600723B3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2729AE6425EA135600723B3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		278D1FDD25FC861B0046087C /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2729AE5825EA134F00723B3C /* SceneDelegate.swift */,
 				2729AE5A25EA134F00723B3C /* ViewController.swift */,
 				2729AE5C25EA134F00723B3C /* Main.storyboard */,
+				278D1FDD25FC861B0046087C /* CreationViewController.swift */,
 				2729AE5F25EA135600723B3C /* Assets.xcassets */,
 				2729AE6125EA135600723B3C /* LaunchScreen.storyboard */,
 				2729AE6425EA135600723B3C /* Info.plist */,
@@ -140,6 +143,7 @@
 				2729AE5B25EA134F00723B3C /* ViewController.swift in Sources */,
 				2729AE5725EA134F00723B3C /* AppDelegate.swift in Sources */,
 				2729AE5925EA134F00723B3C /* SceneDelegate.swift in Sources */,
+				278D1FDE25FC861B0046087C /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
