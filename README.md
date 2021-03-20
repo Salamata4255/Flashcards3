@@ -25,7 +25,7 @@ A continuation of the flashcard app where you can now add multiple cards
 
 ### App Walk-though
 
-<img src=http://g.recordit.co/sWuHLD4MjA.gif width=200><br>
+<img src= http://g.recordit.co/FrEhvCrbBm.gif width=200><br>
 
 
 ## Required
