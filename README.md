@@ -33,3 +33,20 @@ A continuation of the flashcard app where you can now add multiple cards
 - [x] User can cancel out of the creation screen
 - [x] User can enter a new question and answer in the creation screen to then show it on the flashcard
 - [x] Push code to GitHub
+
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
+## Lab 3
+
+### App Description
+A continuation of the flashcard app where you can now add multiple cards and save them.
+
+### App Walk-though
+
+<img src= http://g.recordit.co/oN5I5D5EKW.gif width=200><br>
+
+
+## Required
+- [ ] User can browse through multiple flashcards
+- [ ] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
